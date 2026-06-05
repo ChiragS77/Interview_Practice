@@ -1,0 +1,11 @@
+Percentage
+
+i) Finding original number  
+ii) Keeping expenditure constant  
+iii) % more than  
+iv) % less than  
+v) Reducing price & increasing selling  
+vi) Successive % change  
+vii) Percentage error  
+viii) Marks-based problems  
+ix) General % increase/decrease

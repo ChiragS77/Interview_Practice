@@ -1,0 +1,60 @@
+📘 Profit and Loss — Most Common Interview Questions
+🟦 1. Finding Cost Price (CP)
+Given: SP and Loss% → Find CP
+
+Given: SP and Profit% → Find CP
+
+🟦 2. Finding Selling Price (SP)
+Given: CP and Loss% → Find SP
+
+Given: CP and Profit% → Find SP
+
+🟦 3. Finding Profit or Loss
+Given: CP and SP → Find Profit/Loss
+
+Given: CP and SP → Find Profit%/Loss%
+
+🟦 4. Finding Profit% or Loss%
+Given: CP and SP → Use formula:
+
+\text{Profit%} = \frac{Profit}{CP} \times 100 \text{Loss%} = \frac{Loss}{CP} \times 100
+📘 Other Advanced/Tricky Question Types
+🟨 5. Successive Profit or Loss
+Example: Profit of 20% on cost, then another 10% on new CP
+
+Use: Compounded profit formula
+
+🟨 6. Marked Price / Discount Based
+Find SP after applying discount
+
+Find CP using marked price, discount, and profit
+
+🟨 7. False Weight or Quantity
+Selling 950g as 1kg — Calculate effective profit%
+
+🟨 8. Overall Profit or Loss
+Multiple items sold with profit/loss — find net gain/loss
+
+🟨 9. Equal Selling Price, Different CP
+Same SP for two items with different % profit and loss
+
+Use special formula:
+
+\text{Overall Loss%} = \frac{\text{Common %}^2}{100}
+🟨 10. Mixing Items (Profit & Loss Combined)
+Example: Mixing two types of rice/milk sold at same price — profit/loss?
+
+
+====================================================================================
+Profit / Loss
+
+i) Finding CP (Given SP & %)
+ii) Finding SP (Given CP & %)
+iii) Finding Profit / Loss
+iv) Finding Profit% / Loss%
+v) Marked Price & Discount
+vi) Successive Profit / Loss
+vii) False Weight
+viii) Overall Profit / Loss
+ix) Equal SP Diff CP
+x) Mixing Items
